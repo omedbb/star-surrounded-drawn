@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUDDYBUILD_APP_ID</key>
+	<string>567ae9c90150360100747ab3</string>
+	<key>BUDDYBUILD_BUILD_ID</key>
+	<string>5689d8fe53ecaa0100fa57db</string>
+	<key>BUDDYBUILD_ENDPOINT</key>
+	<string>https%3A%2F%2Fbuddybuild-chris.ngrok.com</string>
+	<key>BUDDYBUILD_SETTING_ENABLE_CRASH_REPORTING</key>
+	<false/>
+	<key>BUDDYBUILD_SETTING_ENABLE_SCREENSHOT_INTERCEPTION</key>
+	<true/>
+	<key>BUDDYBUILD_SETTING_ENABLE_SESSION_TRACKING</key>
+	<string>YES</string>
+	<key>BUDDYBUILD_SETTING_ENABLE_VERSION_CHECKING</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>2048 Demo</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+</dict>
+</plist>
